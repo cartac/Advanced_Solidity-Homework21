@@ -1,5 +1,6 @@
 # Homework 21: You sure can attract a crowd!
-## Deploying the CrowdSale
+
+## Deploying the CrowdSale Contracts
 
 **1.	Set the network as Kovan**
 
@@ -34,23 +35,25 @@ Before we move to the next step, we confirm that all the contracts have been dep
 ![address](Screenshots/05.AllContractsDeployed.png)
 
 
-**5.Buy ARGIE**
+## Buying ARGIE
+
+**1.Buying the New Coin at the Crowd Sale**
 We will buy from a different account to the account that created the coin, 0.05 ETH + 1 WEI to hit the goal and bet the ranch.
 
 ![address](Screenshots/06.PurchaseofCoinsv1.png)
 
 
-**6. And now, we wait until the crowd sale finishes**
+**2. And now, we wait until the crowd sale finishes**
 
 ![address](Screenshots/07.WaitTime.png)
 
 
-**7. We can now finalize the auction and claim our token**
+**3. We can now finalize the auction and claim our token**
 
 ![address](Screenshots/08.Finalize.png)
 
 
-**8. Add Token to the Wallet and wait until we see the balance!**
+**4. Add Token to the Wallet and wait until we see the balance!**
 
 ![address](Screenshots/09.AddToken.png)
 
