@@ -35,12 +35,15 @@ Before we move to the next step, we confirm that all the contracts have been dep
 
 
 **5.Buy ARGIE**
-We will buy from a different account to the account that created the coin, 0.05 ETH + 1 WEI to hit the goal and an extra.
+We will buy from a different account to the account that created the coin, 0.05 ETH + 1 WEI to hit the goal and bet the ranch.
+
 ![address](Screenshots/06.PurchaseofCoinsv1.png)
+
 
 **6. And now, we wait until the crowd sale finishes**
 
 ![address](Screenshots/07.WaitTime.png)
+
 
 **7. We can now finalize the auction and claim our token**
 
