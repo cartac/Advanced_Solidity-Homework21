@@ -37,6 +37,7 @@ Before we move to the next step, we confirm that all the contracts have been dep
 Buy ARGIE 
 We will buy from a different account to the account that created the coin, 0.05 ETH + 1 WEI to hit the goal and an extra.
 ![address](Screenshots/06.PurchaseofCoins.png)
+![address](Screenshots/06.PurchaseofCoinsv1.png)
 
 And now, we wait until the crowd sale finishes. 
 
